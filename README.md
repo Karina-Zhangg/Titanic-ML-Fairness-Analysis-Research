@@ -1,4 +1,4 @@
-TITANIC ML FAIRNESS ANALYISIS RESEAWRCH
+TITANIC ML FAIRNESS ANALYISIS RESEARCH
 
 
 This repository showcases my personal research project exploring survival prediction and fairness evaluation using the Titanic dataset. This project combines data science, machine learning, and fairness metrics to analyze survival factors and assess biases in predictive modeling. It demonstrates my ability to handle end-to-end data analysis while addressing critical ethical concerns in machine learning.
