@@ -1,10 +1,10 @@
-Titanic ML Fairness Analysis Research
-
+TITANIC ML FAIRNESS ANALYISIS RESEAWRCH
 
 
 This repository showcases my personal research project exploring survival prediction and fairness evaluation using the Titanic dataset. This project combines data science, machine learning, and fairness metrics to analyze survival factors and assess biases in predictive modeling. It demonstrates my ability to handle end-to-end data analysis while addressing critical ethical concerns in machine learning.
 
-Objective
+OBJECTIVE
+
 The goal of this project is to:
 
 -Build a predictive model using machine learning techniques (logistic regression) to analyze Titanic passenger survival.
@@ -28,7 +28,7 @@ The goal of this project is to:
   Skills Demonstrated
 
 
-This project reflects my expertise in:
+THIS PROJECT REFLECTS MY EXPERTISE IN:
 
 -Data Preprocessing: Handling missing values, encoding categorical variables, and scaling numerical features.
 
@@ -46,8 +46,7 @@ This project reflects my expertise in:
 
 
 
-Key Findings
-
+KEY FINDINGS:
 
 Performance: The model achieved a high accuracy in predicting survival, supported by strong precision and recall scores.
 
@@ -58,8 +57,8 @@ Fairness Concerns: Fairness evaluations revealed disparities in true positive ra
 Opportunities for Improvement: I identified potential areas for enhancing fairness, including fairness-aware modeling and subgroup-specific rebalancing.
 
 
-Repository Content
 
+REPOSITORY CONTENT:
 
 Titanic_Survival_Fairness_Analysis.ipynb: The full Jupyter Notebook containing the code, visualizations, and detailed analysis.
 
@@ -67,8 +66,8 @@ Titanic_Survival_Fairness_Analysis.ipynb: The full Jupyter Notebook containing t
 Data: The Titanic dataset was sourced from Kaggle, including cleaned and preprocessed versions for the analysis. The downloadable CSV file is also available in my repository named "Titanic.csv"
 
 
-Why This Project Matters
 
+WHY THIS PROJECT MATTERS:
 
 This project showcases my ability to:
 
@@ -82,7 +81,8 @@ This project showcases my ability to:
 -Communicate insights clearly and effectively, making data-driven decisions accessible and actionable.
 
 
-Next Steps
+
+NEXT STEPS:
 
 
 To improve upon this work:
@@ -98,8 +98,7 @@ To improve upon this work:
 
 
 
-About Me
-
+ABOUT ME:
 
 I’m passionate about leveraging machine learning and data science to solve complex problems while addressing ethical considerations. This project is a reflection of my commitment to building equitable, responsible, and high-performing models.
 
